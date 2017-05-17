@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>7</ShortName>
+    <Description>Search the web with 7Search.com</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,165</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://7search.com/scripts/search.asp?qu={searchTerms}&amp;Affiliate=67505" />
+</OpenSearchDescription>

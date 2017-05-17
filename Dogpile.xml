@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Dogpile</ShortName>
+    <Description>Meta-search engine for Google, Yahoo, Live and Ask</Description>
+    <LongName></LongName>
+    <Image></Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.dogpile.com/info.dogpl/search/redir.htm?qcat=web&amp;qkw={searchTerms}" />
+</OpenSearchDescription>

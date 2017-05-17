@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>CNet News</ShortName>
+    <Description>Search for Software news with CNet.com</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,215</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://cnet.search.com/search?chkpt=astg.cnet.fd.search.cnet&amp;q={searchTerms}&amp;tag=srch" />
+</OpenSearchDescription>

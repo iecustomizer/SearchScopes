@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Canada.com</ShortName>
+    <Description>Search the Canada.com network</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.canada.com/findit/search/searchword/index.html?q={searchTerms}" />
+</OpenSearchDescription>

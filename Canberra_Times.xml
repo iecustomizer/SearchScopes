@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Canberra Times</ShortName>
+    <Description>Search the Canberra Times for recent articles</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://canberra.yourguide.com.au/search.asp?c=_&amp;sc=_&amp;dr=thismonth&amp;q={searchTerms}&amp;sf=0&amp;o=0&amp;t=news&amp;a=results" />
+</OpenSearchDescription>

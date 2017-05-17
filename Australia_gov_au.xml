@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Australia.gov.au</ShortName>
+    <Description>Search Australian Government Websites and Publications</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://govsearch.australia.gov.au/search/search.cgi?collection=gov_combined&amp;coverage=all&amp;fqp=1&amp;fscope=512&amp;num_ranks=20&amp;chksummary=chksummary&amp;query={searchTerms}" />
+</OpenSearchDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>AV.AU Wallpaper</ShortName>
+    <Description>Search for Wallpapers using AltaVista Australia</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://au.altavista.com/image/results?itag=ody&amp;q={searchTerms}&amp;mik=photo&amp;mik=graphic&amp;mip=all&amp;mis=all&amp;miwxh=wallpaper" />
+</OpenSearchDescription>

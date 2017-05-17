@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Abril</ShortName>
+    <Description>Brazil Search Provider powered by Yahoo</Description>
+    <LongName></LongName>
+    <Image>http://www.abril.com.br/favicon.ico</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.abril.com.br/busca/resultadoLista.shtml?qu={searchTerms}&amp;Keywords={searchTerms}&amp;num=10&amp;on=5&amp;in=10&amp;outputCharEnc=ISO-8859-1&amp;keywordCharEnc=ISO-8859-1&amp;Partner=abril_br_xml_buscaabril&amp;mkt=br&amp;adultFilter=clean&amp;sexfilter=clean&amp;busca={searchTerms}&amp;ao=0&amp;si=" />
+</OpenSearchDescription>

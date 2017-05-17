@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Aport</ShortName>
+    <Description>Search the web in Russian with Aport.ru</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,156</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://sm.aport.ru/scripts/template.dll?That=std&amp;r={searchTerms}" />
+</OpenSearchDescription>

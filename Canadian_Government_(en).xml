@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Canadian Government (en)</ShortName>
+    <Description>Search Canadian Government sites in English - Provided by Google</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.google.ca/search?hl=en&amp;q={searchTerms}%2BSITE%3A.gov&amp;btnG=Search&amp;meta=cr%3DcountryCA" />
+</OpenSearchDescription>

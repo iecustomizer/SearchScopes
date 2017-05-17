@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>DrsRef.com.au</ShortName>
+    <Description>Search for Medical information from DrsRef.com.au</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,255</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.drsref.com.au/cgi-bin/search.pl?start=0&amp;perPage=15&amp;search={searchTerms}&amp;submit=Echidna+Search" />
+</OpenSearchDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Channel 9 Programmers Search</ShortName>
+    <Description>Programmers Search of Channel9.msdn.com</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,162</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://channel9.msdn.com/Search/SearchResults.aspx?q={searchTerms}&amp;f=&amp;u=MA==" />
+</OpenSearchDescription>

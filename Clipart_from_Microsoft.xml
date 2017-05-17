@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Clipart from Microsoft</ShortName>
+    <Description>Search for Clipart from Microsoft</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,239</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://office.microsoft.com/clipart/results.aspx?lc=en-us&amp;Scope=MC%2CMM%2CMP%2CMS&amp;Query={searchTerms}" />
+</OpenSearchDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>BestBuy.com</ShortName>
+    <Description></Description>
+    <LongName></LongName>
+    <Image></Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.bestbuy.com/site/olspage.jsp?_dyncharset=ISO-8859-1&amp;id=pcat17071&amp;type=page&amp;st={searchTerms}&amp;sc=Global&amp;cp=1&amp;nrp=15&amp;sp=&amp;qp=&amp;list=n&amp;iht=y&amp;usc=All+Categories" />
+</OpenSearchDescription>

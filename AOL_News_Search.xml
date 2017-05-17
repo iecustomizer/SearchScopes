@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>AOL News Search</ShortName>
+    <Description>Search for News Items with AOL.com</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,155</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.aol.com/aolcom/news?query={searchTerms}&amp;invocationType=newsTab" />
+</OpenSearchDescription>

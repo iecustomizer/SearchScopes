@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>About.com</ShortName>
+    <Description>Search the web with About.com</Description>
+    <LongName></LongName>
+    <Image>%windir%\SearchIcons.dll,247</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.about.com/fullsearch.htm?terms={searchTerms}" />
+</OpenSearchDescription>

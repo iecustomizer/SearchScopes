@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Answers.com</ShortName>
+    <Description>Ask questions to receive answers</Description>
+    <LongName></LongName>
+    <Image>http://www.answers.com/favicon.ico</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.answers.com/main/ntquery?s={searchTerms}&amp;initiator=11&amp;afid=6050" />
+</OpenSearchDescription>

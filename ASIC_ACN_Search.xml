@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>ASIC ACN Search</ShortName>
+    <Description>Search for Company Information from ASIC - Enter an ABN(Australian Business Number)</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.search.asic.gov.au/cgi-bin/gns030c?acn={searchTerms}&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" />
+</OpenSearchDescription>
