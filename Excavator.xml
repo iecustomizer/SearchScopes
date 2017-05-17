@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Excavator</ShortName>
+    <Description>Excavator is a Custom Search Engine for Microsoft technology and news that uses an XML feed to better integrate Google search results into their site</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.winexcavator.com/SearchResults.aspx?q={searchTerms}" />
+</OpenSearchDescription>

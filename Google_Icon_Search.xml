@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Google Icon Search</ShortName>
+    <Description>Search for Icons with Google</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,113</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://images.google.com/images?as_q={searchTerms}&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;svnum=10&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;imgsz=icon&amp;as_filetype=&amp;imgc=&amp;as_sitesearch=&amp;safe=images&amp;btnG.x=40&amp;btnG.y=15" />
+</OpenSearchDescription>

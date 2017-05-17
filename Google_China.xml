@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Google China</ShortName>
+    <Description>Search the web with Google USA in Chinese</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,113</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.google.com/search?hl=zh-TW&amp;q={searchTerms}&amp;btnG=Google+%E6%90%9C%E5%B0%8B&amp;lr=" />
+</OpenSearchDescription>

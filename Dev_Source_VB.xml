@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Dev Source VB</ShortName>
+    <Description>.net programmers resource</Description>
+    <LongName></LongName>
+    <Image></Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.devsource.com/search_results/0%2C1208%2C%2C00.asp?qry={searchTerms}&amp;section=&amp;site=34" />
+</OpenSearchDescription>

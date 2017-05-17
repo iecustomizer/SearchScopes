@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>FotoSearch.com</ShortName>
+    <Description>Search for Royalty Free Images and Music.</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.fotosearch.com/results.asp?start=0&amp;category=1&amp;keyword={searchTerms}&amp;Search=Search&amp;pub=all&amp;rf=rf&amp;rm=rm" />
+</OpenSearchDescription>

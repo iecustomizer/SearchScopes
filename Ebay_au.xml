@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Ebay.au</ShortName>
+    <Description>Shop with Ebay Australia</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,117</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.ebay.com.au/search/search.dll?MfcISAPICommand=GetResult&amp;ht=1&amp;cgiurl=http%3A%2F%2Fcgi.ebay.com.au%2Fws%2F&amp;SortProperty=MetaEndSort&amp;shortcut=2&amp;query={searchTerms}" />
+</OpenSearchDescription>

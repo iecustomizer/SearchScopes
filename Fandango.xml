@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Fandango</ShortName>
+    <Description>Search for Videos and Movies with Fandango.com</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,238</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.fandango.com/Movies.aspx?tab=AllMovies&amp;YearFilter=&amp;ActorFilter=&amp;DirectorFilter=&amp;MonthFilter=&amp;WriterFilter=&amp;GenreFilter=&amp;search={searchTerms}&amp;from=AdvancedSearch&amp;RatingFilter=" />
+</OpenSearchDescription>

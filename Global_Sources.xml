@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Global Sources</ShortName>
+    <Description>Global Sources: Manufacturers and Suppliers from mainland China, Hong Kong, Taiwan and the world</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.globalsources.com/gsol/GeneralManager?query={searchTerms}&amp;search_what=1&amp;select_category=2000000003844&amp;action=DoFreeTextSearch&amp;point_search=on" />
+</OpenSearchDescription>
