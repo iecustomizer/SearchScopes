@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Mercury News</ShortName>
+    <Description>Search for news items at Mercury News</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,254</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.mercurynews.com/mld/mercurynews/search/search_results.htm?pubName=mercurynews&amp;orderBy=date&amp;pageStart=1&amp;sitesToSearch=mercurynews%2Crealcities&amp;pageSize=10&amp;fieldsToSearch=HEADLINE%2CFORSEARCH%2CLEAD%2CBYLINE&amp;queryType=all&amp;searchSelect=article&amp;query={searchTerms}" />
+</OpenSearchDescription>

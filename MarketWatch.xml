@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>MarketWatch</ShortName>
+    <Description></Description>
+    <LongName></LongName>
+    <Image></Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.marketwatch.com/tools/quotes/quotes.asp?symb={searchTerms}&amp;siteid=mktw&amp;dist=mktwqn" />
+</OpenSearchDescription>

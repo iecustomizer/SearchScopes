@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Mamma News Search</ShortName>
+    <Description>Search News feeds with Mamma</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.mamma.com/MammaNews?qtype=4&amp;action=doSearch&amp;sort=date&amp;removeDuplicates=on&amp;removeSimilar=on&amp;category=g&amp;query={searchTerms}" />
+</OpenSearchDescription>

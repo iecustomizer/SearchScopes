@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>HowstuffWorks.com</ShortName>
+    <Description>Find out How Stuff Works</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,173</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.howstuffworks.com/search.php?terms={searchTerms}" />
+</OpenSearchDescription>

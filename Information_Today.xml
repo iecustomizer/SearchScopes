@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Information Today</ShortName>
+    <Description>Search Information Today for IT articles and news</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://infotoday.mondosearch.com/cgi-bin/MsmFind.exe?IMAGE.X=3&amp;IMAGE.Y=4&amp;MEDIA_TYPE=0&amp;CFGNAME=MssFind.cfg&amp;AGE_WGT=0&amp;AND_ON=Y&amp;QUERY_ENCODING=UTF-8&amp;QUERY={searchTerms}&amp;ALLCATS=X&amp;x=39&amp;y=14" />
+</OpenSearchDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Militarywords.com</ShortName>
+    <Description>With Military Words, you can search for military/government acronyms and abbreviations (powered by Acronym Finder) and military terms from the US DoD Joint Publication 1-02, DOD Dictionary of Military and Associated Terms.</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.militarywords.com/result.aspx?term={searchTerms}" />
+</OpenSearchDescription>

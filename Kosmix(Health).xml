@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Kosmix(Health)</ShortName>
+    <Description>Search Health and Medical Topics with Kosmix</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,255</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.kosmix.com/search?q={searchTerms}&amp;out=health&amp;t-vhealth.all.x=114&amp;t-vhealth.all.y=20" />
+</OpenSearchDescription>

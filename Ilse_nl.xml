@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Ilse.nl</ShortName>
+    <Description>Search the web with ilse.nl in Dutch</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,207</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.ilse.nl/msie/index.jspx?search_for={searchTerms}" />
+</OpenSearchDescription>

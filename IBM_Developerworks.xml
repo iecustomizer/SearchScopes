@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>IBM Developerworks</ShortName>
+    <Description>Search developerWorks technical articles, tutorials, downloads, blogs, forums, and more for information about open source development, cross-platform, open standards technologies, and IBM products.
+</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.ibm.com/developerworks/search/searchResults.jsp?searchType=1&amp;searchSite=dW&amp;searchScope=dW&amp;query={searchTerms}" />
+</OpenSearchDescription>
