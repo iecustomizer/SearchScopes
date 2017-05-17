@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>WebMD.com</ShortName>
+    <Description>Search Medicine with webmd</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,255</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://my.webmd.com/search/search_results?query={searchTerms}&amp;filter=mywebmd_all_filter" />
+</OpenSearchDescription>

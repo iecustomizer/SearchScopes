@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>XtraMSN.co.nz</ShortName>
+    <Description>Search the web with XtraMSN.co.nz</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,107</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.xtramsn.co.nz/previewx.aspx?q={SearchTerms}" />
+</OpenSearchDescription>

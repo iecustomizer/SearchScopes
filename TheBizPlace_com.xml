@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>TheBizPlace.com</ShortName>
+    <Description>Search Yellow pages with thebizplace.com</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,237</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.thebizplace.com/?q={searchTerms}" />
+</OpenSearchDescription>

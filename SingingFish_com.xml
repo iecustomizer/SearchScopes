@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>SingingFish.com</ShortName>
+    <Description>Search for music with Singingfish.com</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.singingfish.com/sfw/search?a_submit=1&amp;aw=1&amp;sfor=av&amp;dur=a&amp;fmp3=1&amp;freal=1&amp;favi=1&amp;fmpeg=1&amp;fwin=1&amp;fqt=1&amp;fflash=1&amp;call=1&amp;cmus=1&amp;cmov=1&amp;crad=1&amp;coth=1&amp;ctv=1&amp;cnews=1&amp;cspt=1&amp;cfin=1&amp;rpp=10&amp;persist=1&amp;exp=0&amp;query={searchTerms}&amp;a_eml_search=1&amp;email_type=2&amp;x=-2" />
+</OpenSearchDescription>

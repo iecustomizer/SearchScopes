@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Yahoo Kids Japan</ShortName>
+    <Description>Kids safe web search in Japanese</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,102</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search-kids.yahoo.co.jp/bin/search?p={searchTerms}&amp;submit=%A4%B5%A4%AC%A4%B9" />
+</OpenSearchDescription>

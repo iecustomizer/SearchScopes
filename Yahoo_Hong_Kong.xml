@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Yahoo Hong Kong</ShortName>
+    <Description>Search the web with Yahoo Hong Kong in Chinese</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://hk.search.yahoo.com/search?p={searchTerms}&amp;yp_r=0&amp;tx=d&amp;s=-ut&amp;meta=rst=hk&amp;ei=BIG5&amp;n=10" />
+</OpenSearchDescription>

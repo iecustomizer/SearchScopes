@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Technotari</ShortName>
+    <Description>Technorati is the authority on what's going on in the world of weblogs</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,106</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.technorati.com/search/{searchTerms}" />
+</OpenSearchDescription>

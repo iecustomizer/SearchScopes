@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Yahoo China</ShortName>
+    <Description>Search the web with Yahoo China in Chinese</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.cn.yahoo.com/search?ei=gbk&amp;fr=fp-tab-web-ycn&amp;meta=vl%3Dlang_zh-CN%26vl%3Dlang_zh-TW&amp;pid=ysearch&amp;source=ysearch_www_hp_button&amp;p={searchTerms}" />
+</OpenSearchDescription>

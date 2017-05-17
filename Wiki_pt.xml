@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Wiki.pt</ShortName>
+    <Description>Search Wikipedia.org in Portuguese</Description>
+    <LongName></LongName>
+    <Image>%windir%\SearchIcons.dll,103</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://www.wikipedia.org/search-redirect.php?search={searchTerms}&amp;language=pt&amp;go=Go" />
+</OpenSearchDescription>

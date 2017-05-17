@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Yahoo Japan</ShortName>
+    <Description>Search the web with Yahoo Japan in Japenese</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://search.yahoo.co.jp/search?p={searchTerms}&amp;fr=top_v2&amp;tid=top_v2&amp;search.x=1&amp;x=34&amp;y=9" />
+</OpenSearchDescription>

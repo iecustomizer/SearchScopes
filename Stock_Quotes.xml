@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Stock Quotes</ShortName>
+    <Description>Search for stock quotes from MoneyCentral.msn.com</Description>
+    <LongName></LongName>
+    <Image>C:\WINNT\SearchIcons.dll,244</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://moneycentral.msn.com/detail/stock_quote?Symbol={searchTerms}" />
+</OpenSearchDescription>

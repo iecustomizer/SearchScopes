@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Recipesource.com</ShortName>
+    <Description>RecipeSource is the new home of 
+SOAR: The Searchable Online Archive of Recipes
+and your source for recipes on the Internet.</Description>
+    <LongName></LongName>
+    <Image>%WinDir%\SearchIcons.dll,221</Image>
+    <Developer></Developer>
+    <Contact></Contact>
+    <Attribution></Attribution>
+    <SyndicationRight></SyndicationRight>
+    <AdultContent></AdultContent>
+    <Url type="text/html" template="http://recipesource.com/cgi-bin/search.cgi?search_string={searchTerms}" />
+</OpenSearchDescription>
